@@ -4,22 +4,14 @@ Tenho uma formação técnica em informática e estou na área de programação 
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Dvorakcs&color=f8efd4&style=for-the-badge&logo=GitHub">
 
+
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQHqY8gZ4L207g/company-logo_200_200/0/1618407914761?e=1706745600&v=beta&t=7wpWkZyyp04K18nU8CCtDG5ET9SxsI-0G8M9JSK32zI"/>](https://octoti.com.br/)
 
-**Desenvolvedor** \
- <p align="left">
-    <a href="mailto:marcelo.hsfilho15@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"/></a>
+[<img align="left" height="94px" width="94px" alt="OctoTi" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5G0gwbTZ0lSyeL5jPKO2DhYwHwq4vF0XFG6shDmnM8QO2dhUD6J8RHxsEU7-EP3W47OY&usqp=CAU"/>](https://mastersgi.com.br/)
 
-  <a href="https://www.linkedin.com/in/marcelo-henrique-1a6142251/" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-henrique-1a6142251/" /></a>
-
-</p>
-[OctoTi](https://octoti.com.br/) • Full-time \
-Linguagens & Tecnologias: `C#`, `Js`, `Html`, `Css`, `Jquery`, `asp classico`, `SQL`\
-Projetos em destaque: [MasterSgi](https://mastersgi.com.br/),
-Criacao de micro-sistemas cli para integrar o Projeto MasterSgi Multidrogas a outras integradoras,
-Criacao de WebApi para o sistema MasterSgi.
+**Web Developer** \
+[**Octo TI**](https://octoti.com.br/) • Full-time \
+Languages & technologies: `C#`, `.NET`, `MVC`, `JavaScript`, `Jquery`, `Asp classic`, `SQL`\
 <br/>
 <hr>
 
