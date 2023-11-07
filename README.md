@@ -15,7 +15,7 @@ Tenho uma formação técnica em informática e estou na área de programação 
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-henrique-1a6142251/" /></a>
 
 </p>
-[**OctoTi**](https://octoti.com.br/) • Full-time \
+[OctoTi](https://octoti.com.br/) • Full-time \
 Linguagens & Tecnologias: `C#`, `Js`, `Html`, `Css`, `Jquery`, `asp classico`, `SQL`\
 Projetos em destaque: [MasterSgi](https://mastersgi.com.br/),
 Criacao de micro-sistemas cli para integrar o Projeto MasterSgi Multidrogas a outras integradoras,
