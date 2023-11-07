@@ -24,7 +24,7 @@ Tenho uma formação técnica em informática e estou na área de programação 
 </p>
 
 <br>
-<p align="center">
+<p align="left">
   🦄 Languages: 
 
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
