@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="left">
 <br>
-<p align="right" padding-top="10"> 
+<p align="left" padding-top="10"> 
 Tenho um diploma técnico em informática e tenho estado na área de programação web há exatamente 2 anos. Durante esse tempo, tenho aprendido muito e trabalhado em projetos legais na web. Estou sempre buscando maneiras de melhorar e me manter atualizado nesse campo.
 </p>
 
 <br>
-<p align="left">
+<p align="rigth">
   🦄 Languages: 
 
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
