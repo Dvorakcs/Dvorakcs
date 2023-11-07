@@ -4,6 +4,9 @@ Tenho uma formação técnica em informática e estou na área de programação 
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Dvorakcs&color=f8efd4&style=for-the-badge&logo=GitHub">
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQHqY8gZ4L207g/company-logo_200_200/0/1618407914761?e=1706745600&v=beta&t=7wpWkZyyp04K18nU8CCtDG5ET9SxsI-0G8M9JSK32zI"/>](https://octoti.com.br/)
+
+**Desenvolvedor** \
  <p align="left">
     <a href="mailto:marcelo.hsfilho15@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"/></a>
@@ -51,8 +54,6 @@ Tenho uma formação técnica em informática e estou na área de programação 
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQHqY8gZ4L207g/company-logo_200_200/0/1618407914761?e=1706745600&v=beta&t=7wpWkZyyp04K18nU8CCtDG5ET9SxsI-0G8M9JSK32zI"/>](https://octoti.com.br/)
 
-**Desenvolvedor** \
 
 
