@@ -4,7 +4,7 @@ Tenho uma formação técnica em informática e estou na área de programação 
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-<p> Trabalhando na **OCTOTI**<br/> Eu sou desenvolvedor **Web Full-Stack**.</p>
+<p> Trabalhando na OCTOTI<br/> Eu sou desenvolvedor Web Full-Stack.</p>
 
 <hr>
 
