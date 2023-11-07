@@ -2,9 +2,16 @@
 
 Tenho uma formação técnica em informática e estou na área de programação web há dois anos. Atualmente, trabalho como desenvolvedor júnior, lidando principalmente com tecnologias como C#, SQL, JavaScript, jQuery, HTML e CSS. Além disso, tenho experiência com o desenvolvimento de WebAPIs. Tenho interesse em explorar o desenvolvimento de jogos e estou em constante busca por aprimorar minhas habilidades e me manter atualizado no campo da programação web.
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Dvorakcs&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-<p> Trabalhando na OCTOTI<br/> Eu sou desenvolvedor Web Full-Stack.</p>
+<p> 
+[**OctoTi**](https://octoti.com.br/) • Full-time \
+Linguagens & Tecnologias: `C#`, `Js`, `Html`, `Css`, `Jquery`, `asp classico`, `SQL`\
+Projetos em destaque: [MasterSgi](https://mastersgi.com.br/),
+Criacao de micro-sistemas cli para integrar o Projeto MasterSgi Multidrogas a outras integradoras,
+Criacao de WebApi para o sistema MasterSgi.
+<br/>
+</p>
 
 <hr>
 
@@ -42,12 +49,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQHqY8gZ4L207g/company-logo_200_200/0/1618407914761?e=1706745600&v=beta&t=7wpWkZyyp04K18nU8CCtDG5ET9SxsI-0G8M9JSK32zI"/>](https://octoti.com.br/)
 
 **Desenvolvedor** \
-[**OctoTi**](https://octoti.com.br/) • Full-time \
-Linguagens & Tecnologias: `C#`, `Js`, `Html`, `Css`, `Jquery`, `asp classico`, `SQL`\
-Projetos em destaque: [MasterSgi](https://mastersgi.com.br/),
-Criacao de micro-sistemas cli para integrar o Projeto MasterSgi Multidrogas a outras integradoras,
-Criacao de WebApi para o sistema MasterSgi.
-<br/>
 
 <p align="left">
     <a href="mailto:marcelo.hsfilho15@gmail.com" alt="Gmail">
