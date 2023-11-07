@@ -24,7 +24,7 @@ Tenho um diploma técnico em informática e tenho estado na área de programaç�
 </p>
 
 <p aling="right">
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvorakcs&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvorakcs&hide=html&layout=compact&theme=radical)(https://github.com/anuraghazra/github-readme-stats)  
 </p>
 
 ### Experiência de trabalho
