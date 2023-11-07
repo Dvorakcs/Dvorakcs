@@ -28,22 +28,3 @@ Languages & technologies: `C#`, `.NET`, `MVC`, `JavaScript`, `Jquery`, `Asp clas
 
 
 
-
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-<br>
-<p align="left"> 
-Tenho uma formação técnica em informática e estou na área de programação web há dois anos. Atualmente, trabalho como desenvolvedor júnior, lidando principalmente com tecnologias como C#, SQL, JavaScript, jQuery, HTML e CSS. Além disso, tenho experiência com o desenvolvimento de WebAPIs. Tenho interesse em explorar o desenvolvimento de jogos e estou em constante busca por aprimorar minhas habilidades e me manter atualizado no campo da programação web.
-</p>
-
-<br>
-
-
-### Experiência de trabalho
-
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-
-
-
