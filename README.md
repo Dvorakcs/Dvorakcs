@@ -19,13 +19,6 @@ Tenho um diploma técnico em informática e tenho estado na área de programaç�
 ![image](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
 
 </p>
-<p aling="left">
-  [![card](https://github-readme-stats.vercel.app/api?username=Dvorakcs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
-<p aling="right">
-![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvorakcs&hide=html&layout=compact&theme=radical)(https://github.com/anuraghazra/github-readme-stats)  
-</p>
 
 ### Experiência de trabalho
 
