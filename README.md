@@ -4,8 +4,8 @@
 Tenho um diploma técnico em informática e tenho estado na área de programação web há exatamente 2 anos. Durante esse tempo, tenho aprendido muito e trabalhado em projetos legais na web. Estou sempre buscando maneiras de melhorar e me manter atualizado nesse campo.
 </p>
 
-
-<p align="left" padding-top="10">
+<br>
+<p align="left">
   🦄 Languages: 
 
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
