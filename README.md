@@ -4,9 +4,6 @@ Tenho uma formação técnica em informática e estou na área de programação 
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Dvorakcs&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQHqY8gZ4L207g/company-logo_200_200/0/1618407914761?e=1706745600&v=beta&t=7wpWkZyyp04K18nU8CCtDG5ET9SxsI-0G8M9JSK32zI"/>](https://octoti.com.br/)
-
 [<img align="left" height="94px" width="94px" alt="OctoTi" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5G0gwbTZ0lSyeL5jPKO2DhYwHwq4vF0XFG6shDmnM8QO2dhUD6J8RHxsEU7-EP3W47OY&usqp=CAU"/>](https://mastersgi.com.br/)
 
 **Web Developer** \
