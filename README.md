@@ -5,7 +5,7 @@ Tenho um diploma técnico em informática e tenho estado na área de programaç�
 </p>
 
 <br>
-<p align="rigth">
+<p align="center">
   🦄 Languages: 
 
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
