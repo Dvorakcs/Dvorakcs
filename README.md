@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="left">
 <br>
-<p align="right" padding-top="10"> 
+<p align="right"> 
 Tenho um diploma técnico em informática e tenho estado na área de programação web há exatamente 2 anos. Durante esse tempo, tenho aprendido muito e trabalhado em projetos legais na web. Estou sempre buscando maneiras de melhorar e me manter atualizado nesse campo.
 </p>
 
@@ -19,10 +19,13 @@ Tenho um diploma técnico em informática e tenho estado na área de programaç�
 ![image](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
 
 </p>
+<p aling="left">
+  [![card](https://github-readme-stats.vercel.app/api?username=Dvorakcs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
-[![card](https://github-readme-stats.vercel.app/api?username=Dvorakcs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvorakcs&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p aling="right">
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvorakcs&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+</p>
 
 ### Experiência de trabalho
 
