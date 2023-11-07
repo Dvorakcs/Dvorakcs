@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="left">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 <br>
-<p align="right"> 
+<p align="left"> 
 Tenho um diploma técnico em informática e tenho estado na área de programação web há exatamente 2 anos. Durante esse tempo, tenho aprendido muito e trabalhado em projetos legais na web. Estou sempre buscando maneiras de melhorar e me manter atualizado nesse campo.
 </p>
 
