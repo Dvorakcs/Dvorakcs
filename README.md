@@ -3,7 +3,7 @@
 Tenho uma formação técnica em informática e estou na área de programação web há dois anos. Atualmente, trabalho como desenvolvedor júnior, lidando principalmente com tecnologias como C#, SQL, JavaScript, jQuery, HTML e CSS. Além disso, tenho experiência com o desenvolvimento de WebAPIs. Tenho interesse em explorar o desenvolvimento de jogos e estou em constante busca por aprimorar minhas habilidades e me manter atualizado no campo da programação web.
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Dvorakcs&color=f8efd4&style=for-the-badge&logo=GitHub">
-
+<hr>
 <p align="left">
 
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -23,7 +23,7 @@ Tenho uma formação técnica em informática e estou na área de programação 
 [**Octo TI**](https://octoti.com.br/) • Full-time \
 Languages & technologies: `C#`, `.NET`, `MVC`, `JavaScript`, `Jquery`, `Asp classic`, `SQL`\
 <br/>
-<hr>
+
 
 
 
