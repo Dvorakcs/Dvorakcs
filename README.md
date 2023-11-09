@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Dvorakcs&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
 Tenho uma formação técnica em informática e estou na área de programação web há dois anos. Atualmente, trabalho como desenvolvedor júnior, lidando principalmente com tecnologias como C#, SQL, JavaScript, jQuery, HTML e CSS. Além disso, tenho experiência com o desenvolvimento de WebAPIs. Tenho interesse em explorar o desenvolvimento de jogos e estou em constante busca por aprimorar minhas habilidades e me manter atualizado no campo da programação web.
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvorakcs&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Dvorakcs&color=f8efd4&style=for-the-badge&logo=GitHub">
 <hr>
