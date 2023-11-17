@@ -29,7 +29,7 @@ Languages & technologies: `C#`, `.NET`, `MVC`, `JavaScript`, `Jquery`, `Asp clas
 
 
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/victormoreiraofc/count.svg" />  
+  <img src="https://profile-counter.glitch.me/Dvorakcs/count.svg" />  
 </p>
 
 
