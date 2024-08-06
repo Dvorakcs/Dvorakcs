@@ -15,8 +15,6 @@
 
 </p>
 
-[<img align="left" height="94px" width="94px" alt="OctoTi" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5G0gwbTZ0lSyeL5jPKO2DhYwHwq4vF0XFG6shDmnM8QO2dhUD6J8RHxsEU7-EP3W47OY&usqp=CAU"/>](https://mastersgi.com.br/)
-
 **Web Developer** \
 Languages & technologies: `C#`, `.NET`, `MVC`, `JavaScript`, `Jquery`, `Asp classic`, `SQL`\
 <br/>
